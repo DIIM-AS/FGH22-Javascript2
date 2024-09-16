@@ -13,6 +13,6 @@ program yang memuat fungsi yang memiliki parameter nilaiAwal (number) dan nilaiA
 
 
 
-##Authors
+## Authors
 
 - [Dimas S](https://github.com/DIIM-AS)
